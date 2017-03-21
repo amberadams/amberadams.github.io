@@ -1,2 +1,3 @@
-name: Amber N. Adams
+name: amberadams
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
